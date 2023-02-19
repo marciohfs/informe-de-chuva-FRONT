@@ -1,0 +1,28 @@
+/* --------------------------------------------------
+  LOGO USL
+-----------------------------------------------------*/
+.nav-logo {
+    max-width: 150px;
+}
+
+/* --------------------------------------------------
+  BLOCO (LOGO / TITULO / INPUT / BOTÃO)
+-----------------------------------------------------*/
+.App {
+  padding: 10px 16px;
+  box-shadow: 0px 3px 0px rgba(0, 0, 0, 0.1); 
+}
+  
+/* --------------------------------------------------
+  TITULO BOLETIM
+-----------------------------------------------------*/
+.titulo {
+    position: relative;
+    top: -60px;
+    width: auto;
+    height: 1px;
+    text-align: center; 
+    font-size: xx-large;
+    justify-content: center;
+    color: rgb(50, 93, 133);
+}
