@@ -1,4 +1,4 @@
-<h1 align="center"> API Informe de Chuva </h1>
+<h1 align="center"> FRONT Informe de Chuva </h1>
 
 <p align="center">
 FRONT do Informe de Chuva. STYLE feito com SLDS (Salesforce Lightning Design System). <br/>
